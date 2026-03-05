@@ -259,15 +259,15 @@ const gallery: Gallery = {
   // These are placeholder images, replace with your own
   images: [
     {
-      src: "1772674872535.png",
+      src: "/images/gallery/1772674872535.png",
       alt: "image",
       orientation: "horizontal",
     },
     {
-      src: "1772674878940.png",
+      src: "/images/gallery/1772674872535.png",
       alt: "image",
       orientation: "horizontal",
-    },
+    }
   ],
 };
 
